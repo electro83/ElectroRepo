@@ -69,11 +69,35 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 
 ### Movistar
 
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="Movistar0" tvg-name="Movistar 0" group-title="Movistar",Movistar 0
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MS" tvg-name="Movistar Series" group-title="Movistar",Movistar Series
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MSX" tvg-name="Movistar SerieX" group-title="Movistar",Movistar Series Extra
+
+
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MovistarEstrenos.png" tvg-id="MV1" tvg-name="Movistar Estrenos" group-title="Movistar",Movistar Estrenos
 http://5.189.187.55:8000/live/Fadil/skype/2493.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MovistarAccion" tvg-name="Movistar Accion" group-title="Movistar",Movistar Accion
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MACC" tvg-name="Movistar Accion" group-title="Movistar",Movistar Accion
 http://54.37.255.204:9977/live/leon/iptv/28786.ts
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MCOM" tvg-name="Movistar Comedia" group-title="Movistar",Movistar Comedia
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MDC" tvg-name="Movistar DCINE" group-title="Movistar",Movistar DCINE
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MÑ" tvg-name="Movistar Ñ" group-title="Movistar",Movistar Ñ
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png" tvg-id="NG" tvg-name="NAT GEO" group-title="Movistar",NAT GEO
+http://54.37.255.204:9977/live/leon/iptv/28760.ts
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png" tvg-id="NGW" tvg-name="NAT GEO WILD" group-title="Movistar",NAT GEO WILD
+http://54.37.255.204:9977/live/leon/iptv/28757.ts
 
 
 ### Noticias
