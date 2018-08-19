@@ -7,9 +7,9 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4
 #EXTINF:-1, "tvg-id="A3" tvg-name="Antena 3" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/La2.png",La 2
 https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8
 #EXTINF:-1, "tvg-id="C4" tvg-name="Cuatro" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/A3.png",Antena 3
-1
+
 #EXTINF:-1, "tvg-id="T5" tvg-name="Telecinco" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Cuatro.png",Cuatro
-1
+
 #EXTINF:-1, "tvg-id="SEXTA" tvg-name="La Sexta" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/T5.png",Telecinco
 https://livepull1.secure.footprint.net/lasextampp/bitrate_1.m3u8
 #EXTINF:-1, "tvg-id="AXN" tvg-name="AXN" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/La6.png",La Sexta
@@ -44,9 +44,25 @@ http://5.189.187.55:8000/live/Fadil/skype/2636.m3u8
 http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
 #EXTINF:-1, "tvg-id="" tvg-name="" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/INTECO.png",Intereconomía
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1, "tvg-id="MV1" tvg-name="Movistar Estrenos" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/13TV.png",13 TV
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar #0" group-title="Nacional" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/13TV.png",13 TV
+http://54.37.255.204:9977/live/leon/iptv/28791.ts
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar Series" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/M0.png",Movistar #0
+
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar SerieX" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MS.png",Movistar Series
+
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar DCINE" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MSX.png",Movistar SerieX
+
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar Ñ" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MDC.png",Movistar DCINE
+
+#EXTINF:-1, "tvg-id="MV1" tvg-name="Movistar Estrenos" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MÑ.png",Movistar Ñ
 http://5.189.187.55:8000/live/Fadil/skype/2493.m3u8
-#EXTINF:-1, "tvg-id="24H" tvg-name="24H" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MovistarEstrenos.png",Movistar Estrenos
+#EXTINF:-1, "tvg-id="" tvg-name="Movistar Acción" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MovistarEstrenos.png",Movistar Estrenos
+
+#EXTINF:-1, "tvg-id="" tvg-name="Nat Geo" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MA.png",Movistar Acción
+
+#EXTINF:-1, "tvg-id="" tvg-name="Nat Geo Wild" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NG.png",Nat Geo 
+
+#EXTINF:-1, "tvg-id="24H" tvg-name="24H" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NGW.png",Nat Geo Wild
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
 #EXTINF:-1, "tvg-id="ENW" tvg-name="Euronews" group-title="Noticias" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/24H.png",24H
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13596.m3u8?nimblesessionid=137333714
@@ -63,40 +79,3 @@ http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
 #EXTINF:-1, "tvg-id="" tvg-name="" group-title="Relax" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",Silence TV
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:-1, "tvg-id="" tvg-name="" group-title="Relax" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",Acuario
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
-#EXTINF:-1, "tvg-id="" tvg-name="" group-title="" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png",
-1
