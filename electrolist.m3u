@@ -1,0 +1,160 @@
+#EXTM3U
+
+### TDT
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/La1.png" tvg-id="TVE" tvg-name="La 1" group-title="Nacional",La 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1ca_lv3_aosv4_gl7/la1ca_lv3_aosv4_gl7.isml/la1ca_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/La2.png" tvg-id="LA2" tvg-name="La 2"group-title="Nacional",La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.mpd
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/A3.png" tvg-id="A3" tvg-name="Antena 3" group-title="Nacional",Antena 3
+https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Cuatro.png" tvg-id="C4" tvg-name="Cuatro" group-title="Nacional",Cuatro
+https://petu18.pedromo.me/live/cuatro/index.m3u8?token=4UoD7l-oDURsMIRd2Dmx8Q&expires=1534582304
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/T5.png" tvg-id="T5" tvg-name="Telecinco" group-title="Nacional",Telecinco
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/La6.png" tvg-id="SEXTA" tvg-name="La Sexta" group-title="Nacional", La Sexta
+https://livepull1.secure.footprint.net/lasextampp/bitrate_1.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/AXN.png" tvg-id="AXN" tvg-name="AXN" group-title="Nacional",AXN
+http://5.189.187.55:8000/live/Fadil/skype/2622.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/FOX.png" tvg-id="FOXGE" tvg-name="FOX" group-title="Nacional",FOX
+http://5.189.187.55:8000/live/Fadil/skype/1669.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/FDF.png" tvg-id="FDFIC" tvg-name="FDF" group-title="Nacional",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/A3S.png" tvg-id="ATRESS" tvg-name="A3 Series" group-title="Nacional",A3 Series
+https://livepull1-i.akamaized.net/a3seriesmpp/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NEOX.png" tvg-id="NEOX" tvg-name="NEOX" group-title="Nacional",NEOX
+https://livepull1.secure.footprint.net/geoneoxmpp/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Divinity.png" tvg-id="DIVINI" tvg-name="Divinity" group-title="Nacional",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Bemad.png" tvg-id="BEMAD" tvg-name="BEMAD" group-title="Nacional",BEMAD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Paramount.png" tvg-id="PARCH" tvg-name="Paramount" group-title="Nacional",Paramount
+http://paramount.live.flumotion.com/live/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MEGA.png" tvg-id="MEGA" tvg-name="MEGA" group-title="Nacional",MEGA
+https://livepull1.secure.footprint.net/geomegampp/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Energy.png" tvg-id="ENERGY" tvg-name="ENERGY" group-title="Nacional",ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NOVA.png" tvg-id="NOVA" tvg-name="NOVA" group-title="Nacional",NOVA
+https://livepull1.secure.footprint.net/geonovampp/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Decasa.png" tvg-id="DECASA" tvg-name="DeCasa" group-title="Nacional",Decasa
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12878.m3u8?nimblesessionid=137333714
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/TCM.png" tvg-id="TCM" tvg-name="TCM" group-title="Nacional",TCM
+http://5.189.187.55:8000/live/Fadil/skype/2185.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Blaze.png" tvg-id="BIOGRA" tvg-name="Blaze" group-title="Nacional",Blaze
+http://5.189.187.55:8000/live/Fadil/skype/2636.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/INTECO.png" tvg-id="INTECO" tvg-name="Intereconomía" group-title="Nacional",Intereconomía
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/13TV.png" tvg-id="" tvg-name="" group-title="Nacional",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+
+
+### Movistar
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="Movistar0" tvg-name="Movistar 0" group-title="Movistar",Movistar 0
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MS" tvg-name="Movistar Series" group-title="Movistar",Movistar Series
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MSX" tvg-name="Movistar SerieX" group-title="Movistar",Movistar Series Extra
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MovistarEstrenos.png" tvg-id="MV1" tvg-name="Movistar Estrenos" group-title="Movistar",Movistar Estrenos
+http://5.189.187.55:8000/live/Fadil/skype/2493.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MACC" tvg-name="Movistar Accion" group-title="Movistar",Movistar Accion
+http://54.37.255.204:9977/live/leon/iptv/28786.ts
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MCOM" tvg-name="Movistar Comedia" group-title="Movistar",Movistar Comedia
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MDC" tvg-name="Movistar DCINE" group-title="Movistar",Movistar DCINE
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Movistar.png" tvg-id="MÑ" tvg-name="Movistar Ñ" group-title="Movistar",Movistar Ñ
+
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png" tvg-id="NG" tvg-name="NAT GEO" group-title="Movistar",NAT GEO
+http://54.37.255.204:9977/live/leon/iptv/28760.ts
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/.png" tvg-id="NGW" tvg-name="NAT GEO WILD" group-title="Movistar",NAT GEO WILD
+http://54.37.255.204:9977/live/leon/iptv/28757.ts
+
+
+### Noticias
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/24H.png" tvg-id="24H" tvg-name="24H" group-title="Noticias",24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Euronews.png" tvg-id="ENW" tvg-name="Euronews" group-title="Noticias",Euronews
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13596.m3u8?nimblesessionid=137333714
+
+
+### Autonómicas
+
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/Canal Sur.png" group-title="Autonómicas",Canal Sur
+http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8
+
+#EXTINF:-1 group-title="Autonómicas",La Otra
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1 group-title="Autonómicas",Canal 33
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1 group-title="Autonómicas",Eitb
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 group-title="Autonómicas",Murcia TV
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 group-title="Autonómicas",Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+
+### Deportes
+
+#EXTINF:-1 tvg-logo="https://78.media.tumblr.com/d5c50cba2aea4da8331dc2d17e0f0dde/tumblr_mspasuPyb71rdkn3to1_1280.png" group-title="Deportes",GOLTV
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13597.m3u8?nimblesessionid=137333714
+
+#EXTINF:-1 group-title="Deportes",Caza y Pesca
+http://5.189.187.55:8000/live/Fadil/skype/2503.m3u8
+
+
+### Música
+
+#EXTINF:-1 group-title="Música",A1 España HD
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21590.m3u8?nimblesessionid=137333714
+
+
+### Otros
+
+#EXTINF:-1, tvg-logo="http://cdn.livetvcdn.net/img/oglogo.png" group-title="Otros",Live TV
+http://178.132.6.97/uzivo/lifetvesp/playlist.m3u8
+
+
+### Relax
+
+#EXTINF:-1, tvg-logo="http://ulango.tv/uploads/channels/3780862/logo_silence%20tv.png" group-title="Relax",Silence TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/ad/17/83/ad17833e899e95fdb683879f0a91cee3.png" tvg-id="" group-title="Relax",Acuario
+http://wse.planeta-online.tv:1935/live/cha
