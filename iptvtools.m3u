@@ -48,7 +48,7 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 http://54.37.255.204:9977/live/leon/iptv/28791.ts
 #EXTINF:-1, "tvg-name="Movistar Series" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MS.png",Movistar Series
 http://54.37.255.204:9977/live/leon/iptv/28777.ts
-#EXTINF:-1, "tvg-name="Movistar SerieX" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MSX.png",Movistar SerieX
+#EXTINF:0, "tvg-name="Movistar SerieX" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MSX.png",Movistar SerieX
 http://54.37.255.204:9977/live/leon/iptv/28775.ts
 #EXTINF:-1, "tvg-name="Movistar DCINE" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/MDC.png",Movistar DCINE
 http://54.37.255.204:9977/live/leon/iptv/28783.ts
@@ -60,7 +60,7 @@ http://5.189.187.55:8000/live/Fadil/skype/2493.m3u8
 http://54.37.255.204:9977/live/leon/iptv/28787.ts
 #EXTINF:-1, "tvg-name="Nat Geo" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NG.png",Nat Geo 
 http://54.37.255.204:9977/live/leon/iptv/28759.ts
-#EXTINF:-1, "tvg-name="Nat Geo Wild" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NGW.png",Nat Geo Wild
+#EXTINF:0, "tvg-name="Nat Geo Wild" tvg-id="" group-title="Movistar" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/NGW.png",Nat Geo Wild
 http://54.37.255.204:9977/live/leon/iptv/28757.ts
 #EXTINF:-1, "tvg-name="24H" tvg-id="24H" group-title="Noticias" tv-logo="https://raw.githubusercontent.com/electro83/ElectroRepo/master/Logos%20TV/24H.png",24H
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24h_onlydash_lv3_aosv4_gl8/24h_onlydash_lv3_aosv4_gl8.isml/24h_onlydash_lv3_aosv4_gl8-audio=128000-video=1500000.m3u8
